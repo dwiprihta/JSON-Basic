@@ -1,0 +1,21 @@
+[
+    {
+        "nama":"dwi prihtapambudi",
+        "nim":"1201523005",
+        "hobi":["memancing","menggambar","mewarnai"],
+        "pembimbing":{
+            "pembimbing1":"budi nugroho",
+            "pembimmbing2":"alexis sances"
+        }
+
+    },
+    {
+        "nama":"dwi prihtapambudi",
+        "nim":"1201523005",
+        "hobi":["memancing","menggambar","mewarnai"],
+        "pembimbing":{
+            "pembimbing1":"budi nugroho",
+            "pembimmbing2":"alexis sances"
+        }
+    }
+]
